@@ -2188,12 +2188,12 @@
 		color: inherit;
 		cursor: default;
 		font-size: 0.8em;
+		height: 60px;
 		left: 0;
 		padding: 1em 1.5em;
 		position: fixed;
 		top: 0;
 		width: 100%;
-		height 60px;
 		z-index: 10000;
 	}
 
