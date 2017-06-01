@@ -1880,6 +1880,16 @@
 					background: #df7b77;
 				}
 
+			.icon.circle.fa-link {
+				background: #ff6600;
+				color: #fff;
+			}
+
+				.icon.circle.fa-link:hover {
+					background: #ffa269;
+					color: #fff;
+				}
+
 			.icon.circle.fa-github {
 				background: #dcad8b;
 				color: #fff;
