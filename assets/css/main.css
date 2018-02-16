@@ -7,7 +7,13 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Fix images mobile */
+/* Fix images mobile 
+	@media screen and (max-width: 755px){
+		#tutor, #child-care, #life-skills, #maintenance{
+			width: 100%;
+		}
+	} */
+
 	@media screen and (max-width: 755px){
 		#tutor img, #child-care img, #life-skills img, #maintenance img{
 			width: 100%;
