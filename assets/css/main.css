@@ -9,7 +9,7 @@
 
 /* Fix images mobile */
 	@media screen and (max-width: 755px){
-		#tutor img, #child-care img, #life-skills img, #maintenance img{
+		#tutor, #child-care, #life-skills, #maintenance img{
 			width: 100%;
 		}
 	}
