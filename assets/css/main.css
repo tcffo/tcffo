@@ -9,7 +9,7 @@
 
 /* Fix images mobile */
 	@media screen and (max-width: 736px){
-		.6u 12u(narrower){
+		#tutor img{
 			width: 100%;
 		}
 	}
