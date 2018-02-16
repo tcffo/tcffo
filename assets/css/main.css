@@ -10,7 +10,7 @@
 /* Fix images mobile */
 	@media screen and (min-width: 736px){
 		#tutor img{
-			width: 736px;
+			width: 100%;
 		}
 	}
 
