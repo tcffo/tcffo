@@ -8,7 +8,7 @@
 */
 
 /* Fix images mobile */
-	@media screen and (min-width: 736px){
+	@media screen and (max-width: 736px){
 		#tutor img{
 			width: 100%;
 		}
