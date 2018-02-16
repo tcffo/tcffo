@@ -8,7 +8,7 @@
 */
 
 /* Fix images mobile */
-	@media screen and (max-width: 736px){
+	@media screen and (max-width: 755px){
 		#tutor img, #child-care img, #life-skills img, #maintenance img{
 			width: 100%;
 		}
