@@ -2871,6 +2871,7 @@
 			}
 
 				#navButton .toggle {
+					display: none;
 					text-decoration: none;
 					height: 60px;
 					left: 0;
