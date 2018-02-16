@@ -8,8 +8,10 @@
 */
 
 /* Fix images mobile */
-	#tutor img{
-		width: 736px;
+	@media screen and (min-width: 736px){
+		#tutor img{
+			width: 736px;
+		}
 	}
 
 /* Fix glitchy button margin */
