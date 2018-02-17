@@ -12,9 +12,9 @@
 		#tutor, #child-care, #life-skills, #maintenance{
 			width: 100%;
 		}
-	} */
+	}
 
-	@media screen and (max-width: 755px){
+	@media screen and (max-width: 662px){
 		#tutor img, #child-care img, #life-skills img, #maintenance img{
 			width: 100%;
 		}
